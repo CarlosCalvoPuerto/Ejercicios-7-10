@@ -1,0 +1,29 @@
+/* body {
+    display: flex;
+    justify-content: center;
+} */
+
+.tarjeta {
+    margin: 20px;
+    padding: 15px;
+    background-color: #f0f0f0;
+    width: 300px;
+    border: 1px solid #ddd;
+    
+}
+
+p.precio {
+    font-size: 14px;
+    text-align: end;
+    font-weight: bold;
+    color: #ff5733;
+    
+}
+
+.tarjeta h2 {
+    font-size: 22px;
+}
+
+.tarjeta img {
+    width: 100%;
+}
